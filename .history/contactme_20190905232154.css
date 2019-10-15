@@ -5,20 +5,19 @@ body {
     color: rgb(10, 27, 56);
     box-sizing: border-box;
     height: 100vh;
-    width: 100%;
+    width: 50%;
   }
   *{
     outline: none;
     box-sizing: border-box;
     display: block;
+    margin: 0 auto;
 }
 .form-style {
     background: rgba(250, 250, 250, 0.28);
     padding: 15px;
     box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
     border-radius: 20px;
-    width: 50%;
-    margin: 0 auto;
 }
 .form_grid{
     display: grid;
